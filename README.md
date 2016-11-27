@@ -1,8 +1,8 @@
 # optimize-mst
 Optimizing algorithms for computing the minimal spanning tree
 
-University of Bonn, Summer 2015
-Supervisor: Heiko Röglin (www.roeglin.org)
+University of Bonn, summer term 2015.
+Supervisor: Professor Dr. Heiko Röglin (www.roeglin.org)
 
 This project was done at the University Bonn within a group of three students.
 The aim was to optimize the two well-known algorithms for computing a minimal spanning tree based on given papers.
